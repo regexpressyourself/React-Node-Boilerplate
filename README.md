@@ -2,6 +2,18 @@
 
 This repo contains some boilerplate code for an application that uses Node on the back end and React on the front end. 
 
+## Just get me up and running
+
+```
+git clone https://github.com/regexpressyourself/React-Node-Boilerplate.git
+cd React-Node-Boilerplate
+npm install
+cd client
+npm install
+cd ..
+npm start
+```
+
 ## Credit
 
 Most of this is shamelessly ripped off from the guys over at Fullstack React. 
