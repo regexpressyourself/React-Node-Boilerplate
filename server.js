@@ -4,8 +4,6 @@ const app = express();
 
 const bodyParser  = require('body-parser')
 
-require('dotenv').config();
-
 app.use( bodyParser.json() );       // to support JSON-encoded bodies
 
 app.use(bodyParser.urlencoded({     // to support URL-encoded bodies
